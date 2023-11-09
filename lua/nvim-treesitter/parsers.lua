@@ -2075,6 +2075,7 @@ list.yeti = {
   install_info = {
     url = "https://github.com/adam-r-kowalski/tree-sitter-yeti",
     files = { "src/parser.c" },
+    branch = "main",
   },
   maintainers = { "@adam-r-kowalski" },
 }
