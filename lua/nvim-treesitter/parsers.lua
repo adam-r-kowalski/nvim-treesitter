@@ -2071,6 +2071,15 @@ list.yang = {
   maintainers = { "@Hubro" },
 }
 
+list.yeti = {
+  install_info = {
+    url = "https://github.com/adam-r-kowalski/tree-sitter-yeti",
+    files = { "src/parser.c" },
+  },
+  maintainers = { "@adam-r-kowalski" },
+}
+
+
 list.yuck = {
   install_info = {
     url = "https://github.com/Philipp-M/tree-sitter-yuck",
